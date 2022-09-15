@@ -1,0 +1,11 @@
+.tavel_mainDiv{
+    border: 1px solid lightgray;
+}
+
+.tavel_mainDiv img {
+    width: 100%;
+
+}
+.tavel_mainDiv h5, .tavel_mainDiv p{
+    margin: 20px;
+}
